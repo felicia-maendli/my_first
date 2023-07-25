@@ -40,7 +40,7 @@ library(ggrepel)
 library(scales)
 library(gridExtra)
 library(grid)
-library(lattice)
+
 
 # R Hilfe
 library(usethis)
